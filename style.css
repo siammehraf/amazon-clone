@@ -267,3 +267,81 @@ ul a {
 .copyright {
     padding-top: 10px;
 }
+
+/* Responsive Design for Mobile */
+@media (max-width: 768px) {
+
+    .navbar {
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 10px 0;
+        height: auto;
+    }
+
+    .nav-logo, .nav-adress, .nav-signin, .nav-return, .nav-cart {
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .nav-search {
+        width: 90%;
+        margin: 10px 0;
+    }
+
+    .panel {
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+        padding: 10px 0;
+        text-align: center;
+    }
+
+    .panel-opt {
+        width: 100%;
+        text-align: center;
+    }
+
+    .panel-opt p {
+        display: inline-block;
+        margin: 5px 8px;
+    }
+
+    .hero-section {
+        height: auto;
+        padding: 20px 0;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .hero-message {
+        width: 95%;
+        font-size: 0.8rem;
+        padding: 10px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .shop-section {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .box {
+        width: 90%;
+    }
+
+    .foot-panel2 {
+        flex-direction: column;
+        text-align: center;
+        height: auto;
+        padding: 20px 0;
+    }
+
+    .foot-panel2 ul {
+        margin-bottom: 20px;
+    }
+
+    .foot-panel-4 {
+        font-size: 0.65rem;
+    }
+}
