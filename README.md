@@ -1,6 +1,8 @@
 # Amazon Clone (Educational Project)
 
-> 🚨 **Disclaimer**: This is a student project created solely for educational and practice purposes. It is **not affiliated with, endorsed by, or connected to Amazon.com or any of its subsidiaries**.
+> ⚠️ **DISCLAIMER: THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT.**  
+> This is **NOT** the official site of Amazon. The creator of this page is **NOT** affiliated with Amazon in any way.  
+> This page is a **static HTML and CSS project** built for educational and learning purposes only.
 
 ## 📚 About This Project
 
